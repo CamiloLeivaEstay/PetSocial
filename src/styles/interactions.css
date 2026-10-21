@@ -1,0 +1,53 @@
+/* Generated from the prototype's style-active / style-hover / style-focus attributes. */
+.tap-96:active { transform:scale(.96) !important }
+@media (hover: hover) {
+  .hover-1:hover { background:#3300A8 !important }
+}
+.tap-98:active { transform:scale(.98) !important }
+.focus-1:focus { border-color:#4700D8 !important;box-shadow:0 0 0 4px #E5DAFB !important }
+@media (hover: hover) {
+  .hover-2:hover { background:#EFEFF2 !important }
+}
+@media (hover: hover) {
+  .hover-3:hover { background:#F4EEFE !important }
+}
+@media (hover: hover) {
+  .hover-4:hover { background:#C5AEF5 !important }
+}
+@media (hover: hover) {
+  .hover-5:hover { background:#0F0F12 !important }
+}
+@media (hover: hover) {
+  .hover-6:hover { box-shadow:0 4px 16px rgba(15,15,18,0.08) !important }
+}
+@media (hover: hover) {
+  .hover-7:hover { transform:translateY(-2px) !important }
+}
+@media (hover: hover) {
+  .hover-8:hover { color:#34343D !important }
+}
+.focus-within-1:focus-within { border-color:#4700D8 !important;background:#FFFFFF !important }
+@media (hover: hover) {
+  .hover-9:hover { box-shadow:0 6px 20px rgba(15,15,18,.1) !important }
+}
+@media (hover: hover) {
+  .hover-10:hover { border-color:#9D7AF0 !important }
+}
+.focus-2:focus { border-color:#4700D8 !important;box-shadow:0 0 0 3px #E5DAFB !important }
+@media (hover: hover) {
+  .hover-11:hover { border-color:#9D7AF0 !important;color:#4700D8 !important }
+}
+@media (hover: hover) {
+  .hover-12:hover { border-color:#FCA5A5 !important;color:#B91C1C !important }
+}
+@media (hover: hover) {
+  .hover-13:hover { background:rgba(255,255,255,.22) !important }
+}
+.focus-3:focus { border-color:#4700D8 !important;background:#FFFFFF !important;box-shadow:0 0 0 3px #E5DAFB !important }
+@media (hover: hover) {
+  .hover-14:hover { background:#FECACA !important }
+}
+.tap-88:active { transform:scale(.88) !important }
+.focus-4:focus { border-color:#4700D8 !important;background:#FFFFFF !important }
+.tap-94:active { transform:scale(.94) !important }
+.focus-5:focus { box-shadow:0 0 0 3px #E5DAFB !important }

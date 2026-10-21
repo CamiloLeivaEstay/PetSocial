@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PetSocial</string>
+    <string name="title_activity_main">PetSocial</string>
+    <string name="package_name">cl.petsocial.app</string>
+    <string name="custom_url_scheme">cl.petsocial.app</string>
+</resources>
